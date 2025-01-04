@@ -24,7 +24,7 @@ public class Main {
         frame.setVisible(true);
         frame.setSize(width,height);
         long start=System.currentTimeMillis();
-
+        int dzabe=0;
         int delay = 1000;
         //StartUi u=new StartUi(800,800);
         //u.createUI();
